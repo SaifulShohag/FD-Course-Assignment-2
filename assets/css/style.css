@@ -258,6 +258,7 @@ input, select, textarea {
 
 select {
     width: 594px;
+    color: #858585;
 }
 
 textarea {
